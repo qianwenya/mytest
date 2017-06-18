@@ -8,6 +8,7 @@ int _tmain(int argc, _TCHAR* argv[])
 {
 	cout << "test11" << endl;
 	cout << "test22" << endl;
+	cout << "test33" << endl;
 	cin.get();
 	return 0;
 }
